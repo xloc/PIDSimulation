@@ -15,8 +15,8 @@ public class PlaygroundPanel extends JPanel{
 	
 	private static final long serialVersionUID = -8665907165267037999L;
 
-	public static final int P_WIDTH = 300;
-	public static final int P_HEIGHT = 300;
+	public static final int P_WIDTH = 1000;
+	public static final int P_HEIGHT = 1000;
 	
 	PlayGround playground = new PlayGround();
 	Thread refreshThread;
